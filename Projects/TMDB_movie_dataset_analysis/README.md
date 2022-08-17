@@ -32,40 +32,40 @@ It is obvious from the above, that science fiction is the most popular genre,<br
 Also, the least popular genres are documentary, tv movie, and foreign.<br>
 Next up, I need to calculate the mean rating for each genre.
 
-![Genre Rating](Images/{genre_rating}.{png})
+![Genre Rating](Images/genre_rating.png)
 Although documentary was among the least popular genre, it turns out to be the highest rated genre.<br>
 Next up, I need to calculate the mean revenue for each genre.
 
-![Genre Revenue](Images/{genre_revenue}.{png})
+![Genre Revenue](Images/genre_revenue.png)
 Animations are the highest revenue earning genre, followed by adventure, fantasy and family. <br>Although, documentary is the highest rated genre, it turns out that it generates low revenue.
 
 #### Question 2 - What kinds of properties are associated with movies that earn high revenues?
 
-![Relationship between revenue and popularity](Images/{rev_pop}.{png})
+![Relationship between revenue and popularity](Images/rev_pop.png)
 This shows the relationship between high revenue and popularity. From this, it can be seen that there is a moderate positive correlation between high movie revenue and movie popularity.
 
-![Relationship between revenue and budget](Images/{rev_bud}.{png})
+![Relationship between revenue and budget](Images/rev_bud.png)
 This shows the relationship between high revenue and budget. From this, it can be seen that there is a moderate positive correlation between high movie revenue and movie budget.
 
-![Relationship between revenue and rating](Images/{rev_rat}.{png})
+![Relationship between revenue and rating](Images/rev_rat.png)
 This shows the relationship between high revenue and rating. From this, it can be seen that there is a low positive correlation between high movie revenue and movie rating.
 
 #### Question 3 - By how much has the number of movies released increased/decreased from 1960 till 2015?
 
-![Increase in number of movies](Images/{movies_released}.{png})
+![Increase in number of movies](Images/movies_released.png)
 The line chart above clearly shows that the number of movies released per year has been steadily increasing, and has increased by about 1900% from 1960 till 2015.
 
 #### Question 4 - What is the relationship between movie runtime and movie rating?
 
-![Relationship between movie runtime and movie rating](Images/{run_rat}.{png})
+![Relationship between movie runtime and movie rating](Images/run_rat.png)
 This shows the relationship between movie runtime and movie rating. From this, it can be seen that there is a low positive correlation between movie runtime and movie rating.
 
 #### Question 5 - What is the distribution of movie popularity and rating(vote_average) in the dataset?
 
-![Distribution of movie popularity](Images/{dist_pop}.{png})
+![Distribution of movie popularity](Images/dist_pop.png)
 The histogram above shows that movies with lower popularity are more common, while movies with high popularity are rare.
 
-![Distribution of movie rating](Images/{dist_rat}.{png})
+![Distribution of movie rating](Images/dist_rat.png)
 The histogram above shows that the modal value of movie rating is around 6.
 
 
