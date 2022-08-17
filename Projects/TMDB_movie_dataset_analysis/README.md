@@ -6,7 +6,7 @@
 
 
 ## Aim of the Project
-In this project, I conducted an analysis of movie data to gain some insights about certain features/properties of movies, and to provide insights for the following questions;
+In this project, I conducted an analysis of movie data to gain insights on certain features/properties of movies, and provide answers to the following questions;
 
 1. What genres are popular/highy rated/profitable?
 2. What kinds of properties are associated with movies that earn high revenues?
