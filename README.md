@@ -21,6 +21,7 @@ This list is arranged in descending order according to when each list item was l
 - Made use of pandas to wrangle and clean data, numpy to manipulate and summarize numeric data, matplotlib and seaborn to visualize data.
 - Built a dashboard visualization in Tableau to communicate insights on the popularity of birth dates.
 
+- [View the project here](https://github.com/Abasifreke-Nkanang/US-Births-Analysis)
 - [View the visualization here](https://public.tableau.com/app/profile/abasifreke.nkanang/viz/us_births_dataset1994-2014/Dashboard1)
 
 
@@ -28,6 +29,8 @@ This list is arranged in descending order according to when each list item was l
 
 - Analyze tons of movie data to gain insights on certain features/properties of movies, and provide answers to some questions.
 - Made use of pandas to wrangle and clean data, numpy to manipulate and summarize numeric data, matplotlib and seaborn to visualize data.
+
+-- [View the project here](https://github.com/Abasifreke-Nkanang/TMDB-Movie-Dataset-Analysis)
 
 
 ### Bellabeat Fitness Data Analysis using Python, SQL, and visualization/presentation in Tableau
