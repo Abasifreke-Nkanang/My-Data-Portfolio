@@ -27,7 +27,7 @@ limitation to this analysis, as the results may not represent a high percentage 
 ## Summary
 #### Question 1 - What genres are popular/highy rated/profitable?
 
-![Genre Popularity](Images/{genre_popular}.{png})
+![Genre Popularity](Images/genre_popular.png)
 It is obvious from the above, that science fiction is the most popular genre,<br> followed slightly by adventure, and then fantasy and animation.
 Also, the least popular genres are documentary, tv movie, and foreign.<br>
 Next up, I need to calculate the mean rating for each genre.
